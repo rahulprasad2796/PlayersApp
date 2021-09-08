@@ -1,0 +1,41 @@
+.carousel {
+    width: 80%;
+    height: 50vh;
+    margin: 0 auto;
+    background-color: blue;
+    padding: 0 150px;
+}
+
+.carousel-item {
+    background-color: aliceblue;
+    height: 50vh;
+}
+
+
+img {
+    width: 50%;
+    height: 50vh;
+    margin: 0 40px 0 0;
+    float: left;
+}
+
+.carousel-control-prev-icon {
+    
+    color: white;
+}
+
+.carousel-control-next-icon {
+    
+    color: white;
+}
+
+h4{
+    padding: 0 0 10px 0;
+}
+
+.omain{
+    width: 50%;
+    background-color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+}
